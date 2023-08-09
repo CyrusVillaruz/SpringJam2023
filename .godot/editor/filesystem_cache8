@@ -1,0 +1,371 @@
+2a60927148abd1d33b818b535e306557
+::res://::1683655060
+export_presets.cfg::TextFile::-1::1682958251::0::1::::<><>::
+icon.svg::CompressedTexture2D::3053960323330352018::1682645390::1682645451::1::::<><>::
+::res://assets/::1682732715
+Credit.txt::TextFile::-1::1682698287::0::1::::<><>::
+::res://assets/bunnypack_assets/::1682741775
+BunnySprite.png::CompressedTexture2D::8944498955164195677::1682741771::1682741775::1::::<><>::
+::res://assets/bunnypack_assets/bunnypack_gifs/::1682645390
+::res://assets/bunnypack_assets/bunnypack_spritesheets/::1682645451
+bunny_attack_strip6.png::CompressedTexture2D::394163488264924971::1682645390::1682645451::1::::<><>::
+bunny_dash_strip8.png::CompressedTexture2D::3285098501061439404::1682645390::1682645451::1::::<><>::
+bunny_die_strip16.png::CompressedTexture2D::8855479661182608410::1682645390::1682645451::1::::<><>::
+bunny_fall_strip4.png::CompressedTexture2D::3802034310132725581::1682645390::1682645451::1::::<><>::
+bunny_fright_strip9.png::CompressedTexture2D::1078614129112678328::1682645390::1682645451::1::::<><>::
+bunny_hurt_strip6.png::CompressedTexture2D::3985117961909882008::1682645390::1682645451::1::::<><>::
+bunny_idle_blink_strip4.png::CompressedTexture2D::9081963845388732833::1682645390::1682645451::1::::<><>::
+bunny_idle_strip4.png::CompressedTexture2D::7825490264839939921::1682645390::1682645451::1::::<><>::
+bunny_jump_strip12.png::CompressedTexture2D::7770080835701775438::1682645390::1682645451::1::::<><>::
+bunny_land_strip2.png::CompressedTexture2D::1364732993335776970::1682645390::1682645451::1::::<><>::
+bunny_liedown_strip12.png::CompressedTexture2D::1180971222039580387::1682645390::1682645451::1::::<><>::
+bunny_run_strip6.png::CompressedTexture2D::5138432431918747732::1682645390::1682645451::1::::<><>::
+bunny_sit_strip12.png::CompressedTexture2D::7377483031326616457::1682645390::1682645451::1::::<><>::
+bunny_wallgrab_strip4.png::CompressedTexture2D::2702991247174177284::1682645390::1682645451::1::::<><>::
+::res://assets/chickenpack_assets/::1682741813
+ChickenSpriteSheet.png::CompressedTexture2D::3166863254345151554::1682741757::1682741813::1::::<><>::
+::res://assets/chickenpack_assets/chickenpack_gifs/::1682645390
+::res://assets/chickenpack_assets/chickenpack_spritesheets/::1682645451
+chicken_attack_air_strip6.png::CompressedTexture2D::1401090044525278902::1682645390::1682645451::1::::<><>::
+chicken_attack_ground_strip6.png::CompressedTexture2D::1900317451915111656::1682645390::1682645451::1::::<><>::
+chicken_die_strip10.png::CompressedTexture2D::7996816218694077060::1682645390::1682645451::1::::<><>::
+chicken_fall_strip2.png::CompressedTexture2D::3937063517715390062::1682645390::1682645451::1::::<><>::
+chicken_fly_strip4.png::CompressedTexture2D::2795598257376819063::1682645390::1682645451::1::::<><>::
+chicken_fright_strip5.png::CompressedTexture2D::9105746675835762508::1682645390::1682645451::1::::<><>::
+chicken_hurt_strip5.png::CompressedTexture2D::8704188648869405377::1682645390::1682645451::1::::<><>::
+chicken_idle_blink_strip4.png::CompressedTexture2D::3623645797023247047::1682645390::1682645451::1::::<><>::
+chicken_idle_strip4.png::CompressedTexture2D::8819487712903275635::1682645390::1682645451::1::::<><>::
+chicken_land_strip4.png::CompressedTexture2D::1021623665130045280::1682645390::1682645451::1::::<><>::
+chicken_peck_strip9.png::CompressedTexture2D::3691054915597885457::1682645390::1682645451::1::::<><>::
+chicken_run_strip4.png::CompressedTexture2D::1880856178125773314::1682645390::1682645451::1::::<><>::
+chicken_sit_strip4.png::CompressedTexture2D::7162497848247787977::1682645390::1682645451::1::::<><>::
+chicken_takeoff_strip7.png::CompressedTexture2D::6646211553385895679::1682645390::1682645451::1::::<><>::
+chicken_walk_strip8.png::CompressedTexture2D::854735027345511541::1682645390::1682645451::1::::<><>::
+::res://assets/Edited Textures/::1682832576
+Blue-Flower-Sheet.png::CompressedTexture2D::4871211636920517546::1682732715::1682733184::1::::<><>::
+Chicken-Nest.png::CompressedTexture2D::3383822275116627390::1682732715::1682733184::1::::<><>::
+Flower.png::CompressedTexture2D::3902019549386384591::1682732715::1682733184::1::::<><>::
+Health Animation.png::CompressedTexture2D::4812036468614662013::1682733181::1682733184::1::::<><>::
+HealthEmpty.png::CompressedTexture2D::5178085066156224604::1682733181::1682733184::1::::<><>::
+HealthFull.png::CompressedTexture2D::749250360851996210::1682733181::1682733184::1::::<><>::
+heart.png::CompressedTexture2D::7531250298800293732::1682821932::1682832576::1::::<><>::
+Log.png::CompressedTexture2D::449249304792910672::1682732715::1682733184::1::::<><>::
+Pink-Flower-Sheet.png::CompressedTexture2D::1972904482109177515::1682732715::1682733184::1::::<><>::
+Purple-Flower-Sheet.png::CompressedTexture2D::1188779463723917768::1682732715::1682733184::1::::<><>::
+Rock1.png::CompressedTexture2D::5857178250308291617::1682732715::1682733184::1::::<><>::
+Rock2.png::CompressedTexture2D::4404527191668451878::1682732715::1682733184::1::::<><>::
+Rock3.png::CompressedTexture2D::8572907849390201283::1682732715::1682733184::1::::<><>::
+Star.png::CompressedTexture2D::7005315757171782564::1682821932::1682832576::1::::<><>::
+Stump.png::CompressedTexture2D::2210640566278658604::1682732715::1682733184::1::::<><>::
+Tree.png::CompressedTexture2D::3942720483780050491::1682732715::1682733184::1::::<><>::
+White-Flower-Sheet.png::CompressedTexture2D::4664199990263743011::1682787581::1682787610::1::::<><>::
+Yellow-Flower.png::CompressedTexture2D::4063327491657761175::1682732715::1682733184::1::::<><>::
+::res://assets/font/::1682698328
+VCR_OSD_MONO_1.001.ttf::FontFile::9039997300495564419::1682698287::1682698328::1::::<><>::
+::res://assets/lildoggies_assets/::1682645390
+::res://assets/lildoggies_assets/lildoggies_gifs/::1682645390
+::res://assets/lildoggies_assets/lildoggies_gifs/lildoggie01_gifs/::1682645390
+::res://assets/lildoggies_assets/lildoggies_gifs/lildoggie02_gifs/::1682645390
+::res://assets/lildoggies_assets/lildoggies_gifs/lildoggie03_gifs/::1682645390
+::res://assets/lildoggies_assets/lildoggies_gifs/lildoggie04_gifs/::1682645390
+::res://assets/lildoggies_assets/lildoggies_gifs/lildoggie05_gifs/::1682645390
+::res://assets/lildoggies_assets/lildoggies_spritesheets/::1682645390
+::res://assets/lildoggies_assets/lildoggies_spritesheets/lildoggie01_spritesheets/::1682784761
+Dog1-SpriteSheet.png::CompressedTexture2D::7903700259309214278::1682784753::1682784761::1::::<><>::
+lildoggie01_attack_strip7.png::CompressedTexture2D::3430276099655760328::1682645390::1682645451::1::::<><>::
+lildoggie01_crouch_strip8.png::CompressedTexture2D::1698107087057976043::1682645390::1682645451::1::::<><>::
+lildoggie01_die_strip8.png::CompressedTexture2D::4244724656862660707::1682645390::1682645451::1::::<><>::
+lildoggie01_fall_strip5.png::CompressedTexture2D::156395377684761429::1682645390::1682645451::1::::<><>::
+lildoggie01_hurt_strip5.png::CompressedTexture2D::8892954374596895185::1682645390::1682645451::1::::<><>::
+lildoggie01_idle_blink_strip8.png::CompressedTexture2D::5850348440303477280::1682645390::1682645451::1::::<><>::
+lildoggie01_idle_strip8.png::CompressedTexture2D::2533300602518170398::1682645390::1682645451::1::::<><>::
+lildoggie01_jump_strip5.png::CompressedTexture2D::4587138971094145497::1682645390::1682645451::1::::<><>::
+lildoggie01_land_strip3.png::CompressedTexture2D::3265778292848740398::1682645390::1682645451::1::::<><>::
+lildoggie01_liedown_strip8.png::CompressedTexture2D::8105460049154938556::1682645390::1682645451::1::::<><>::
+lildoggie01_run_strip4.png::CompressedTexture2D::1215725223840858163::1682645390::1682645451::1::::<><>::
+lildoggie01_sit_strip8.png::CompressedTexture2D::1083727805625633424::1682645390::1682645451::1::::<><>::
+lildoggie01_sleep_strip4.png::CompressedTexture2D::4378159570556830940::1682645390::1682645451::1::::<><>::
+lildoggie01_sneak_strip4.png::CompressedTexture2D::7703608603322982123::1682645390::1682645451::1::::<><>::
+lildoggie01_walk_strip8.png::CompressedTexture2D::8473235774528237208::1682645390::1682645451::1::::<><>::
+lildoggie01_wallclimb_strip4.png::CompressedTexture2D::836816420950093548::1682645390::1682645451::1::::<><>::
+lildoggie01_wallgrab_strip8.png::CompressedTexture2D::4630974762141431280::1682645390::1682645451::1::::<><>::
+::res://assets/lildoggies_assets/lildoggies_spritesheets/lildoggie02_spritesheets/::1682784761
+lildoggie02-Sheet.png::CompressedTexture2D::4889528771866736115::1682784753::1682784761::1::::<><>::
+lildoggie02_attack_strip7.png::CompressedTexture2D::5958791540214257799::1682645390::1682645451::1::::<><>::
+lildoggie02_crouch_strip8.png::CompressedTexture2D::5192739459821077415::1682645390::1682645451::1::::<><>::
+lildoggie02_dash_strip10.png::CompressedTexture2D::3826088133320671573::1682784753::1682784761::1::::<><>::
+lildoggie02_die_strip8.png::CompressedTexture2D::6716092752628361967::1682645390::1682645451::1::::<><>::
+lildoggie02_fall_strip5.png::CompressedTexture2D::4835487948646427695::1682645390::1682645451::1::::<><>::
+lildoggie02_hurt_strip5.png::CompressedTexture2D::9190666735923771622::1682645390::1682645451::1::::<><>::
+lildoggie02_idle_blink_strip8.png::CompressedTexture2D::2207607991519093196::1682645390::1682645451::1::::<><>::
+lildoggie02_idle_strip8.png::CompressedTexture2D::2516316093524024473::1682645390::1682645451::1::::<><>::
+lildoggie02_jump_strip5.png::CompressedTexture2D::3536638527956300083::1682645390::1682645451::1::::<><>::
+lildoggie02_land_strip3.png::CompressedTexture2D::8531308708725294124::1682645390::1682645451::1::::<><>::
+lildoggie02_liedown_strip8.png::CompressedTexture2D::7034993134376738334::1682645390::1682645451::1::::<><>::
+lildoggie02_run_strip4.png::CompressedTexture2D::2689154512654075744::1682645390::1682645451::1::::<><>::
+lildoggie02_sit_strip8.png::CompressedTexture2D::567675803127487660::1682645390::1682645451::1::::<><>::
+lildoggie02_sleep_strip4.png::CompressedTexture2D::8140525186812957553::1682645390::1682645451::1::::<><>::
+lildoggie02_sneak_strip4.png::CompressedTexture2D::4572580490063314678::1682645390::1682645451::1::::<><>::
+lildoggie02_walk_strip8.png::CompressedTexture2D::6575378414174184058::1682645390::1682645451::1::::<><>::
+lildoggie02_wallclimb_strip4.png::CompressedTexture2D::5969923317656837253::1682645390::1682645451::1::::<><>::
+lildoggie02_wallgrab_strip8.png::CompressedTexture2D::1657157637990405219::1682645390::1682645451::1::::<><>::
+::res://assets/lildoggies_assets/lildoggies_spritesheets/lildoggie03_spritesheets/::1682784761
+lildoggie03-Sheet.png::CompressedTexture2D::3088734132679704583::1682784753::1682784761::1::::<><>::
+lildoggie03_attack_strip7.png::CompressedTexture2D::1276983401567225294::1682645390::1682645451::1::::<><>::
+lildoggie03_crouch_strip8.png::CompressedTexture2D::2303395897733184001::1682645390::1682645451::1::::<><>::
+lildoggie03_dash_strip10.png::CompressedTexture2D::4971515826049499510::1682784753::1682784761::1::::<><>::
+lildoggie03_die_strip8.png::CompressedTexture2D::2571945232254034307::1682645390::1682645451::1::::<><>::
+lildoggie03_fall_strip5.png::CompressedTexture2D::6684551337310191929::1682645390::1682645451::1::::<><>::
+lildoggie03_hurt_strip5.png::CompressedTexture2D::5699755682630209200::1682645390::1682645451::1::::<><>::
+lildoggie03_idle_blink_strip8.png::CompressedTexture2D::1930686503104407117::1682645390::1682645451::1::::<><>::
+lildoggie03_idle_strip8.png::CompressedTexture2D::286338767273594985::1682645390::1682645451::1::::<><>::
+lildoggie03_jump_strip5.png::CompressedTexture2D::5932170047349970980::1682645390::1682645451::1::::<><>::
+lildoggie03_land_strip3.png::CompressedTexture2D::5140261770270682125::1682645390::1682645451::1::::<><>::
+lildoggie03_liedown_strip8.png::CompressedTexture2D::6923212321083266736::1682645390::1682645451::1::::<><>::
+lildoggie03_run_strip4.png::CompressedTexture2D::5887962763490346543::1682645390::1682645451::1::::<><>::
+lildoggie03_sit_strip8.png::CompressedTexture2D::741781560222372722::1682645390::1682645451::1::::<><>::
+lildoggie03_sleep_strip4.png::CompressedTexture2D::1680968803122714158::1682645390::1682645451::1::::<><>::
+lildoggie03_sneak_strip4.png::CompressedTexture2D::3393622536326095171::1682645390::1682645451::1::::<><>::
+lildoggie03_walk_strip8.png::CompressedTexture2D::8605901647224573510::1682645390::1682645451::1::::<><>::
+lildoggie03_wallclimb_strip4.png::CompressedTexture2D::3292523102972121779::1682645390::1682645451::1::::<><>::
+lildoggie03_wallgrab_strip8.png::CompressedTexture2D::2105268708132205235::1682645390::1682645451::1::::<><>::
+::res://assets/lildoggies_assets/lildoggies_spritesheets/lildoggie04_spritesheets/::1682784761
+lildoggie04-Sheet.png::CompressedTexture2D::3773858186655539234::1682784753::1682784761::1::::<><>::
+lildoggie04_attack_strip7.png::CompressedTexture2D::2866102678419000888::1682645390::1682645452::1::::<><>::
+lildoggie04_crouch_strip8.png::CompressedTexture2D::5303915723186223439::1682645390::1682645452::1::::<><>::
+lildoggie04_dash_strip10.png::CompressedTexture2D::5921086841450757183::1682784753::1682784761::1::::<><>::
+lildoggie04_die_strip8.png::CompressedTexture2D::5477137507444913360::1682645390::1682645451::1::::<><>::
+lildoggie04_fall_strip5.png::CompressedTexture2D::2042342012288550506::1682645390::1682645451::1::::<><>::
+lildoggie04_hurt_strip5.png::CompressedTexture2D::471080529003514304::1682645390::1682645451::1::::<><>::
+lildoggie04_idle_blink_strip8.png::CompressedTexture2D::5160644392752363868::1682645390::1682645451::1::::<><>::
+lildoggie04_idle_strip8.png::CompressedTexture2D::6530113081686821826::1682645390::1682645451::1::::<><>::
+lildoggie04_jump_strip5.png::CompressedTexture2D::9029108988616148201::1682645390::1682645451::1::::<><>::
+lildoggie04_land_strip3.png::CompressedTexture2D::4635501266219620467::1682645390::1682645451::1::::<><>::
+lildoggie04_liedown_strip8.png::CompressedTexture2D::6946743516580825027::1682645390::1682645451::1::::<><>::
+lildoggie04_run_strip4.png::CompressedTexture2D::1361287613472943051::1682645390::1682645451::1::::<><>::
+lildoggie04_sit_strip8.png::CompressedTexture2D::702286599990405610::1682645390::1682645451::1::::<><>::
+lildoggie04_sleep_strip4.png::CompressedTexture2D::7135422273610649427::1682645390::1682645451::1::::<><>::
+lildoggie04_sneak_strip4.png::CompressedTexture2D::7766038589276846709::1682645390::1682645451::1::::<><>::
+lildoggie04_walk_strip8.png::CompressedTexture2D::4886017428774469340::1682645390::1682645451::1::::<><>::
+lildoggie04_wallclimb_strip4.png::CompressedTexture2D::5750210627038583290::1682645390::1682645451::1::::<><>::
+lildoggie04_wallgrab_strip8.png::CompressedTexture2D::2629221785983321847::1682645390::1682645451::1::::<><>::
+::res://assets/lildoggies_assets/lildoggies_spritesheets/lildoggie05_spritesheets/::1682645451
+lildoggie05_attack_strip7.png::CompressedTexture2D::6525709980310791656::1682645390::1682645451::1::::<><>::
+lildoggie05_crouch_strip8.png::CompressedTexture2D::2068749415403431751::1682645390::1682645451::1::::<><>::
+lildoggie05_dash_strip10.png::CompressedTexture2D::3050075536961559113::1682645390::1682645451::1::::<><>::
+lildoggie05_die_strip8.png::CompressedTexture2D::2676295957217253850::1682645390::1682645451::1::::<><>::
+lildoggie05_fall_strip5.png::CompressedTexture2D::2708608319563428031::1682645390::1682645451::1::::<><>::
+lildoggie05_hurt_strip5.png::CompressedTexture2D::7565275132352670682::1682645390::1682645451::1::::<><>::
+lildoggie05_idle_blink_strip8.png::CompressedTexture2D::7047800989353726160::1682645390::1682645451::1::::<><>::
+lildoggie05_idle_strip8.png::CompressedTexture2D::7762196716778029290::1682645390::1682645451::1::::<><>::
+lildoggie05_jump_strip5.png::CompressedTexture2D::3200214804170949819::1682645390::1682645451::1::::<><>::
+lildoggie05_land_strip3.png::CompressedTexture2D::5935722601132192670::1682645390::1682645451::1::::<><>::
+lildoggie05_liedown_strip8.png::CompressedTexture2D::7894198966576867813::1682645390::1682645451::1::::<><>::
+lildoggie05_run_strip4.png::CompressedTexture2D::5902086426411414294::1682645390::1682645451::1::::<><>::
+lildoggie05_sit_strip8.png::CompressedTexture2D::3574314542799541564::1682645390::1682645451::1::::<><>::
+lildoggie05_sleep_strip4.png::CompressedTexture2D::8081216750053662762::1682645390::1682645451::1::::<><>::
+lildoggie05_sneak_strip4.png::CompressedTexture2D::511696440188562727::1682645390::1682645451::1::::<><>::
+lildoggie05_walk_strip8.png::CompressedTexture2D::4999166365544022597::1682645390::1682645451::1::::<><>::
+lildoggie05_wallclimb_strip4.png::CompressedTexture2D::5400412262534475792::1682645390::1682645451::1::::<><>::
+lildoggie05_wallgrab_strip8.png::CompressedTexture2D::8923367010974174629::1682645390::1682645451::1::::<><>::
+::res://assets/Shadow/::1682733184
+LargeShadow.png::CompressedTexture2D::2139574675915594020::1682732715::1682733184::1::::<><>::
+MediumShadow.png::CompressedTexture2D::9057701922243701654::1682732715::1682733184::1::::<><>::
+SmallShadow.png::CompressedTexture2D::8819178581172752303::1682732715::1682733184::1::::<><>::
+::res://assets/Sprout Lands - Sprites/::1682873171
+read_me.txt::TextFile::-1::1682645390::0::1::::<><>::
+::res://assets/Sprout Lands - Sprites/characters/::1682645451
+Basic Charakter Actions.png::CompressedTexture2D::1357725337512784084::1682645390::1682645451::1::::<><>::
+Basic Charakter Spritesheet.png::CompressedTexture2D::6225721736649480410::1682645390::1682645451::1::::<><>::
+Premium Charakter Spritesheet.png::CompressedTexture2D::6199433719698725024::1682645390::1682645451::1::::<><>::
+Tools.png::CompressedTexture2D::3130306706554105765::1682645390::1682645451::1::::<><>::
+water from wateringcan frames.png::CompressedTexture2D::4699513507523378499::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/characters/Animal SpriteSheets/::1682645390
+::res://assets/Sprout Lands - Sprites/characters/Animal SpriteSheets/baby cow/::1682645451
+baby brown cow animations sprites.png::CompressedTexture2D::7909861069737398566::1682645390::1682645451::1::::<><>::
+baby green cow animations sprites.png::CompressedTexture2D::4715730838540723755::1682645390::1682645451::1::::<><>::
+baby light cow animations sprites.png::CompressedTexture2D::6856638358521776035::1682645390::1682645451::1::::<><>::
+baby pink cow animations sprites.png::CompressedTexture2D::3870011450004654012::1682645390::1682645451::1::::<><>::
+baby purple cow animations sprites.png::CompressedTexture2D::6843341235985487780::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/characters/Animal SpriteSheets/cow/::1682645451
+Brown cow animations.png::CompressedTexture2D::8732885588837612734::1682645390::1682645451::1::::<><>::
+Free Cow Sprites.png::CompressedTexture2D::2339280983207386582::1682645390::1682645451::1::::<><>::
+Green cow animation sprites.png::CompressedTexture2D::4989082457339845751::1682645390::1682645451::1::::<><>::
+Light cow animations.png::CompressedTexture2D::7644691938074702683::1682645390::1682645451::1::::<><>::
+Pink cow animation sprites.png::CompressedTexture2D::6487666498228065125::1682645390::1682645451::1::::<><>::
+Purple cow animation sprites.png::CompressedTexture2D::6560524050549534121::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/Color pallete/::1682645451
+Color pallete in aseprite - screenshot.PNG::CompressedTexture2D::8324885227924895709::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/Items/::1682645451
+All items.png::CompressedTexture2D::3643911426163477196::1682645390::1682645451::1::::<><>::
+Farming Plants items.png::CompressedTexture2D::7800692784411624085::1682645390::1682645451::1::::<><>::
+fruit and berries items.png::CompressedTexture2D::4905218845720396930::1682645390::1682645451::1::::<><>::
+item shadow.png::CompressedTexture2D::4334737942821910230::1682645390::1682645451::1::::<><>::
+Milk and grass item Simple.png::CompressedTexture2D::9003181234809915605::1682645390::1682645451::1::::<><>::
+Milk and grass item.png::CompressedTexture2D::4729926182391858389::1682645390::1682645451::1::::<><>::
+tilemap items.png::CompressedTexture2D::1672172474476869284::1682645390::1682645451::1::::<><>::
+tools and meterials.png::CompressedTexture2D::762965228056654312::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/objects/::1682733184
+Barn structures.png::CompressedTexture2D::1501220069561099775::1682645390::1682645451::1::::<><>::
+Boats.png::CompressedTexture2D::3439268958021690742::1682645390::1682645451::1::::<><>::
+Farming Plants.png::CompressedTexture2D::3413276986656990715::1682645390::1682645451::1::::<><>::
+Mushrooms, Flowers, Stones.png::CompressedTexture2D::3181624421487710678::1682732715::1682733184::1::::<><>::
+Piknik basket.png::CompressedTexture2D::5153069876519225544::1682645390::1682645451::1::::<><>::
+Piknik blanket.png::CompressedTexture2D::8044179038834623568::1682645390::1682645451::1::::<><>::
+signs.png::CompressedTexture2D::1305142834225413694::1682645390::1682645451::1::::<><>::
+Trees, stumps and bushes.png::CompressedTexture2D::2578069790834415697::1682645390::1682645451::1::::<><>::
+Water Objects.png::CompressedTexture2D::6831827870828473357::1682645390::1682645451::1::::<><>::
+Water well.png::CompressedTexture2D::7094286793418463347::1682645390::1682645451::1::::<><>::
+work station.png::CompressedTexture2D::5378615924228745483::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/objects/Tree animations/::1682645451
+tree apple sprites.png::CompressedTexture2D::4532212718984141013::1682645390::1682645451::1::::<><>::
+tree orange sprites.png::CompressedTexture2D::5817827250526120841::1682645390::1682645451::1::::<><>::
+tree peach sprites.png::CompressedTexture2D::3528356438119204289::1682645390::1682645451::1::::<><>::
+tree pear sprites.png::CompressedTexture2D::6600175552714680403::1682645390::1682645451::1::::<><>::
+tree sprites.png::CompressedTexture2D::7269027232207565921::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/tilesets/::1682958251
+Water.png::CompressedTexture2D::8605354774436436266::1682958251::1682958251::1::::<><>::
+::res://assets/Sprout Lands - Sprites/tilesets/Building parts/::1682645451
+Basic Furniture.png::CompressedTexture2D::6861995377880223036::1682645390::1682645451::1::::<><>::
+Chest.png::CompressedTexture2D::69581025048955557::1682645390::1682645451::1::::<><>::
+door animation sprites.png::CompressedTexture2D::9073872044219067401::1682645390::1682645451::1::::<><>::
+Fence gates animation sprites .png::CompressedTexture2D::7267888509518116678::1682645390::1682645451::1::::<><>::
+Fences.png::CompressedTexture2D::8347132130762928668::1682645390::1682645451::1::::<><>::
+Mailbox Animation Frames.png::CompressedTexture2D::2662017301973061452::1682645390::1682645451::1::::<><>::
+Paths.png::CompressedTexture2D::1762262955328084529::1682645390::1682645451::1::::<><>::
+STONE PATH.png::CompressedTexture2D::9045081304503079887::1682645390::1682645451::1::::<><>::
+Water tray.png::CompressedTexture2D::1436781772652933528::1682645390::1682645451::1::::<><>::
+Wood Bridge v.2 .png::CompressedTexture2D::6618937002807539761::1682645390::1682645451::1::::<><>::
+Wood Bridge.png::CompressedTexture2D::1535859200550885224::1682645390::1682645451::1::::<><>::
+Wooden House.png::CompressedTexture2D::5517995593068535127::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/tilesets/Ground tiles/::1682645390
+::res://assets/Sprout Lands - Sprites/tilesets/Ground tiles/new tiles/::1682645451
+blue bush tiles.png::CompressedTexture2D::6066456954178889530::1682645390::1682645451::1::::<><>::
+bush tiles.png::CompressedTexture2D::7788005061271568722::1682645390::1682645451::1::::<><>::
+Darker Grass hill tiles v.2.png::CompressedTexture2D::1586523897510353543::1682645390::1682645451::1::::<><>::
+Darker Grass tile layers 2.png::CompressedTexture2D::2992465971474170839::1682645390::1682645451::1::::<><>::
+Darker Grass tile layers.png::CompressedTexture2D::5234591779055673250::1682645390::1682645451::1::::<><>::
+Darker Grass tiles v.2.png::CompressedTexture2D::39982523804063454::1682645390::1682645451::1::::<><>::
+Darker Grass tiles with animates water.png::CompressedTexture2D::8186473220613085106::1682645390::1682645451::1::::<><>::
+Darker Soil ground tiles.png::CompressedTexture2D::7500766335461620285::1682645390::1682645451::1::::<><>::
+Darker Tall Grass hill tiles v.2.png::CompressedTexture2D::7071453841544072828::1682645390::1682645451::1::::<><>::
+Grass hill tiles v.2.png::CompressedTexture2D::471049433793622090::1682645390::1682645451::1::::<><>::
+Grass tile layers 2.png::CompressedTexture2D::2102040434268338286::1682645390::1682645451::1::::<><>::
+Grass tile layers.png::CompressedTexture2D::670764884695951767::1682645390::1682645451::1::::<><>::
+Grass tiles v.2.png::CompressedTexture2D::6984744493345971465::1682645390::1682645451::1::::<><>::
+Grass tiles with animates water-export.png::CompressedTexture2D::1864957992532648725::1682645390::1682645451::1::::<><>::
+Soil ground tiles.png::CompressedTexture2D::1286395243732070767::1682645390::1682645451::1::::<><>::
+Stone ground tiles.png::CompressedTexture2D::8705398548407390618::1682645390::1682645451::1::::<><>::
+Tall Grass hill tiles v.2.png::CompressedTexture2D::2525659064582621732::1682645390::1682645451::1::::<><>::
+tile details.png::CompressedTexture2D::2165698836550931796::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/tilesets/Ground tiles/old tiles/::1682645451
+Grass.png::CompressedTexture2D::6926847690557634245::1682645390::1682645451::1::::<><>::
+Hills.png::CompressedTexture2D::284772661344682499::1682645390::1682645451::1::::<><>::
+Tilled Dirt.png::CompressedTexture2D::1637036027696010690::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - Sprites/tilesets/water frames/::1682878016
+Water.png::CompressedTexture2D::8605354774436436266::1682878016::1682878016::1::::<><>::
+Water_1.png::CompressedTexture2D::59896771816818703::1682645390::1682645451::1::::<><>::
+Water_2.png::CompressedTexture2D::3291002220684713182::1682645390::1682645451::1::::<><>::
+Water_3.png::CompressedTexture2D::4415070061823838354::1682645390::1682645451::1::::<><>::
+Water_4.png::CompressedTexture2D::3466507271562173065::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - UI Pack/::1682821932
+read_me.txt::TextFile::-1::1682645390::0::1::::<><>::
+::res://assets/Sprout Lands - UI Pack/Sprite sheets/::1682645451
+Setting menu.png::CompressedTexture2D::3691703963879399042::1682645390::1682645451::1::::<><>::
+Sprite sheet for Basic Pack.png::CompressedTexture2D::3751482413761625311::1682645390::1682645451::1::::<><>::
+UI Big Play Button.png::CompressedTexture2D::7018672706129279311::1682645390::1682645451::1::::<><>::
+UI Settings Buttons.png::CompressedTexture2D::8144881530351762311::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - UI Pack/Sprite sheets/buttons/::1682645451
+Small Square Buttons.png::CompressedTexture2D::6519083194681082455::1682645390::1682645451::1::::<><>::
+Square Buttons 19x26.png::CompressedTexture2D::3671240023081021944::1682645390::1682645451::1::::<><>::
+Square Buttons 26x19.png::CompressedTexture2D::912708865106691605::1682645390::1682645451::1::::<><>::
+Square Buttons 26x26.png::CompressedTexture2D::4847180360149780217::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - UI Pack/Sprite sheets/Dialouge UI/::1682645451
+dialog box big.png::CompressedTexture2D::1389910354447483817::1682645390::1682645451::1::::<><>::
+dialog box character finished talking click to continue indicator - spritesheet .png::CompressedTexture2D::1662462941854375167::1682645390::1682645451::1::::<><>::
+dialog box medium.png::CompressedTexture2D::4941943719069526949::1682645390::1682645451::1::::<><>::
+dialog box small.png::CompressedTexture2D::3590420437115763695::1682645390::1682645451::1::::<><>::
+dialog box.png::CompressedTexture2D::5762700541134058400::1682645390::1682645451::1::::<><>::
+Premade dialog box  big.png::CompressedTexture2D::7921393617936298074::1682645390::1682645451::1::::<><>::
+Premade dialog box medium.png::CompressedTexture2D::5581616265395115133::1682645390::1682645451::1::::<><>::
+Premade dialog box small.png::CompressedTexture2D::8243711180481673043::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - UI Pack/Sprite sheets/Dialouge UI/Emotes/::1682645451
+Teemo Basic emote animations sprite sheet.png::CompressedTexture2D::3006550746550860710::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - UI Pack/Sprite sheets/Icons/::1682645451
+All Icons.png::CompressedTexture2D::2561505474562308082::1682645390::1682645451::1::::<><>::
+white icons.png::CompressedTexture2D::5221753396252483660::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - UI Pack/Sprite sheets/Icons/special icons/::1682645451
+Small Happines-Sadness icons.png::CompressedTexture2D::5258946032753831085::1682645390::1682645451::1::::<><>::
+Special Icons.png::CompressedTexture2D::3384853510592767530::1682645390::1682645451::1::::<><>::
+::res://assets/Sprout Lands - UI Pack/Sprite sheets/Mouse sprites/::1682645451
+Catpaw holding Mouse icon.png::CompressedTexture2D::2053817061922996935::1682645390::1682645451::1::::<><>::
+Catpaw Mouse icon.png::CompressedTexture2D::1678951510735317204::1682645390::1682645451::1::::<><>::
+Catpaw pointing Mouse icon.png::CompressedTexture2D::4877543987841315277::1682645390::1682645451::1::::<><>::
+Triangle Mouse icon 1.png::CompressedTexture2D::4311137631865466229::1682645390::1682645451::1::::<><>::
+Triangle Mouse icon 2.png::CompressedTexture2D::2711368721365923069::1682645390::1682645451::1::::<><>::
+Triangle Mouse icon 3.png::CompressedTexture2D::918960149807534827::1682645390::1682645451::1::::<><>::
+::res://Chicken/::1682958251
+chicken.gd::GDScript::-1::1682871404::0::1::::<>CharacterBody2D<>::
+chicken.tscn::PackedScene::1147307136568920280::1682958251::0::1::::<><>::res://Chicken/chicken.gd<>uid://bleb1mbdql5rq<>uid://blf4l8bdtbjna<>uid://1juvft616nif
+::res://Cow/::1682877876
+cow.gd::GDScript::-1::1682711448::0::1::::<>CharacterBody2D<>::
+cow.tscn::PackedScene::6301046173647701005::1682877876::0::1::::<><>::uid://8lfu7eb73h63<>res://Cow/cow.gd<>uid://blf4l8bdtbjna
+::res://game/::1683266762
+SpringJam2023.apple-touch-icon.png::CompressedTexture2D::8946319232767916245::1682958251::1683266762::1::::<><>::
+SpringJam2023.icon.png::CompressedTexture2D::5200984006162092107::1682958251::1683266762::1::::<><>::
+SpringJam2023.png::CompressedTexture2D::6776839683057311415::1682958251::1683266762::1::::<><>::
+::res://HitHurtBoxes/::1682877215
+hitbox.gd::GDScript::-1::1682877215::0::1::::<>Area2D<>::
+hitbox.tscn::PackedScene::3170602023982043446::1682652654::0::1::::<><>::res://HitHurtBoxes/hitbox.gd
+hurtbox.gd::GDScript::-1::1682733181::0::1::::<>Area2D<>::
+hurtbox.tscn::PackedScene::9116496278751001850::1682652654::0::1::::<><>::res://HitHurtBoxes/hurtbox.gd
+PlayerDetection.gd::GDScript::-1::1682817045::0::1::::<>Area2D<>::
+player_detection.tscn::PackedScene::1844741469315223297::1682652654::0::1::::<><>::res://HitHurtBoxes/PlayerDetection.gd
+::res://Levels/::1682958251
+level_0.tscn::PackedScene::4714180470875206355::1682958251::0::1::::<><>::uid://dnqb0hxaf0xi3<>uid://ckeyyhd1en2ax<>uid://cv1jksh0kdo3f<>uid://bpcvkdvavmjrl<>uid://b5mpvkifymge1<>uid://ctkx6by4k6v7q<>uid://ciukaqn8jrria<>uid://b8u3hr05y075n<>uid://barmvkswk2erp<>uid://q0gk7l2h7n1p<>uid://caqjqkrh8ppf5<>uid://bbdf1fl0s6st5<>uid://c2jh7m8w0qq1k<>uid://coukokfj3jhow<>uid://ql08l654c71e<>uid://clwfuwnaewuot<>uid://bug0l58vns74n<>uid://88bmggsogo22<>uid://h33infkyoo1i<>uid://ded1ib1iew6ul
+level_1.tscn::PackedScene::-1::1682958251::0::1::::<><>::uid://dnqb0hxaf0xi3<>uid://gygd6l35rw7k<>res://player/player-cam.tscn<>uid://ckeyyhd1en2ax<>uid://h33infkyoo1i<>uid://88bmggsogo22<>uid://bug0l58vns74n<>uid://clwfuwnaewuot<>uid://coukokfj3jhow<>uid://ciukaqn8jrria<>uid://ctkx6by4k6v7q<>uid://c0l52d5nhtpx3<>uid://b8u3hr05y075n<>uid://q0gk7l2h7n1p<>uid://caqjqkrh8ppf5<>uid://bbdf1fl0s6st5<>uid://bwwkbi78yj5ms<>uid://barmvkswk2erp<>uid://bpcvkdvavmjrl<>uid://b5mpvkifymge1<>uid://ded1ib1iew6ul
+level_2.tscn::PackedScene::6472323469661639914::1682958251::0::1::::<><>::uid://dnqb0hxaf0xi3<>uid://c2jh7m8w0qq1k<>uid://bpcvkdvavmjrl<>uid://b5mpvkifymge1<>uid://ckeyyhd1en2ax<>uid://47ikfpviqv3c<>uid://ciukaqn8jrria<>uid://88bmggsogo22<>uid://ded1ib1iew6ul<>uid://h33infkyoo1i<>uid://bug0l58vns74n<>uid://coukokfj3jhow<>uid://b8u3hr05y075n<>uid://barmvkswk2erp<>uid://ctkx6by4k6v7q<>uid://clwfuwnaewuot
+level_3.tscn::PackedScene::6058505039763942480::1682958251::0::1::::<><>::uid://dnqb0hxaf0xi3<>uid://gygd6l35rw7k<>uid://c2jh7m8w0qq1k<>uid://c1ki6p026ekgn<>uid://duuq624x82pks<>uid://1tnt6a54vpir<>uid://ckeyyhd1en2ax<>uid://cv1jksh0kdo3f<>uid://bpcvkdvavmjrl<>uid://b5mpvkifymge1<>uid://ctkx6by4k6v7q<>uid://h33infkyoo1i<>uid://88bmggsogo22<>uid://coukokfj3jhow<>uid://bug0l58vns74n<>uid://clwfuwnaewuot<>uid://bbdf1fl0s6st5<>uid://b8u3hr05y075n<>uid://ciukaqn8jrria<>uid://c0l52d5nhtpx3<>uid://q0gk7l2h7n1p<>uid://barmvkswk2erp
+level_4.tscn::PackedScene::8366694816825067762::1682958251::0::1::::<><>::uid://c2jh7m8w0qq1k<>uid://dnqb0hxaf0xi3<>uid://bpcvkdvavmjrl<>uid://b5mpvkifymge1<>uid://ckeyyhd1en2ax<>uid://js6nt848dpgh<>uid://tmrhkvbjpms<>uid://dq6obt7av4tay<>uid://up8t6jnnt0dg<>uid://sle0hostfecd<>uid://c70p2uh3hf4ya<>uid://dovuauw7dctxy<>uid://88bmggsogo22<>uid://bug0l58vns74n<>uid://b8u3hr05y075n<>uid://barmvkswk2erp<>uid://clwfuwnaewuot<>uid://coukokfj3jhow<>uid://ded1ib1iew6ul<>uid://h33infkyoo1i<>uid://ql08l654c71e
+level_5.tscn::PackedScene::5585262548798984425::1682958251::0::1::::<><>::uid://dnqb0hxaf0xi3<>uid://c2jh7m8w0qq1k<>uid://ckeyyhd1en2ax<>uid://b5mpvkifymge1<>uid://bpcvkdvavmjrl<>uid://wur21horlcp0<>uid://dwa7v3nysca6m<>uid://sle0hostfecd<>uid://0dwhixwaao1f<>uid://tmrhkvbjpms<>uid://eb7fty3g7not<>uid://4aqxxo7e6hf<>uid://ded1ib1iew6ul<>uid://ql08l654c71e<>uid://88bmggsogo22<>uid://cv1jksh0kdo3f<>uid://clwfuwnaewuot<>uid://coukokfj3jhow<>uid://c0l52d5nhtpx3<>uid://bug0l58vns74n<>uid://ctkx6by4k6v7q<>uid://ciukaqn8jrria<>uid://caqjqkrh8ppf5
+level_12.tscn::PackedScene::6860075707720417830::1682867106::0::1::::<><>::uid://uor7tebi4v3v
+scene-switcher.tscn::PackedScene::646596042653615554::1682878016::0::1::::<><>::uid://d1p2en4kfbef5<>uid://cyhihssvc47u1<>uid://owkq1erafyb2
+win.tscn::PackedScene::6182187515578941647::1682871404::0::1::::<><>::uid://dnqb0hxaf0xi3<>uid://c2jh7m8w0qq1k
+::res://objects/::1682958251
+FlowerTemplate.gd::GDScript::-1::1682806322::0::1::::<>StaticBody2D<>::
+flower_template.tscn::PackedScene::16742023121151144::1682805960::0::1::::<><>::res://objects/FlowerTemplate.gd
+Hay.tscn::PackedScene::3976600981193070474::1682732715::0::1::::<><>::uid://bfn2664u6enx7<>uid://vng400o42xlf
+Log.tscn::PackedScene::2422281765151307673::1682805960::0::1::::<><>::uid://bfn2664u6enx7<>uid://gnvcnnsquq05
+object_template.tscn::PackedScene::2765898205075276850::1682732715::0::1::::<><>::
+Rock1.tscn::PackedScene::1175014800933097927::1682805960::0::1::::<><>::uid://bfn2664u6enx7<>uid://cppi4t08jeo0h
+Rock2.tscn::PackedScene::4806446988946465708::1682805960::0::1::::<><>::uid://bfn2664u6enx7<>uid://b30t6i0vsf0es
+Rock3.tscn::PackedScene::2463152956969451236::1682732715::0::1::::<><>::uid://bfn2664u6enx7<>uid://due1sl72k2sml
+Stumps.tscn::PackedScene::4745653588097378769::1682805960::0::1::::<><>::uid://bfn2664u6enx7<>uid://6q36r1vhu4ls
+Sunflower.tscn::PackedScene::5376247703467465164::1682867106::0::1::::<><>::uid://bfn2664u6enx7<>uid://bvufxr25o8t2f
+Tree.tscn::PackedScene::6128525115424986204::1682867106::0::1::::<><>::uid://bfn2664u6enx7<>uid://bwf5bbcb8n5fb
+::res://objects/flowers/::1682806322
+blue.tscn::PackedScene::550839535743168164::1682806322::0::1::::<><>::uid://id0d54xfhrs<>uid://cbnwe5oqqxfc1
+pink.tscn::PackedScene::2384438777704393145::1682806322::0::1::::<><>::uid://id0d54xfhrs<>uid://3dxpis2o4dhj
+purple.tscn::PackedScene::3804123019181534631::1682806322::0::1::::<><>::uid://id0d54xfhrs<>uid://q64a23vhvprs
+white.tscn::PackedScene::5590675434438197871::1682806322::0::1::::<><>::uid://id0d54xfhrs<>uid://b7pmxsn0xicw6
+yellow.tscn::PackedScene::5797405437846406262::1682806322::0::1::::<><>::uid://id0d54xfhrs<>uid://bx5kn7dw32prb
+::res://player/::1682958252
+player-cam.gd::GDScript::-1::1682784753::0::1::::<>Camera2D<>::
+player-cam.tscn::PackedScene::-1::1682784753::0::1::::<><>::
+player.gd::GDScript::-1::1682958252::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::8104852827480713184::1682877876::0::1::::<><>::res://player/player.gd<>uid://culb1dmllsuqq<>uid://blf4l8bdtbjna<>uid://d25dmkhf7umva
+playerstats.gd::GDScript::-1::1682821932::0::1::::<>Node<>::
+playerstats.tscn::PackedScene::2868872900050834804::1682649428::0::1::::<><>::res://player/playerstats.gd
+Well.tscn::PackedScene::6552140544365058062::1682958252::0::1::::<><>::uid://bfn2664u6enx7<>uid://c8cr4qisofr4n
+::res://powerup/::1682821932
+hearts.gd::GDScript::-1::1682821932::0::1::::<>Area2D<>::
+hearts.tscn::PackedScene::7447803580114774175::1682821932::0::1::::<><>::res://powerup/hearts.gd<>uid://dfkgueptubyp5
+::res://UI/::1682871404
+game_over.gd::GDScript::-1::1682821932::0::1::::<>Node<>::
+game_over.tscn::PackedScene::3444675198598339937::1682832602::0::1::::<><>::res://UI/game_over.gd<>uid://bi3npl8b8jdko<>uid://d12bo1us4o6w2
+HealthBar.gd::GDScript::-1::1682821932::0::1::::<>Control<>::
+HealthBar.tscn::PackedScene::5484487755147950507::1682821932::0::1::::<><>::res://UI/HealthBar.gd<>uid://cas8sjpp48co8<>uid://d12bo1us4o6w2
+pause_menu.gd::GDScript::-1::1682832602::0::1::::<>Node<>::
+pause_menu.tscn::PackedScene::4517807320297954362::1682832602::0::1::::<><>::res://UI/pause_menu.gd<>uid://d12bo1us4o6w2<>uid://bi3npl8b8jdko
+winner.gd::GDScript::-1::1682871404::0::1::::<>Node<>::
+winner.tscn::PackedScene::4838841089887849284::1682871404::0::1::::<><>::uid://d12bo1us4o6w2<>res://UI/winner.gd<>uid://bi3npl8b8jdko
